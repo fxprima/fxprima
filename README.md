@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felix Prima</h1>
+<h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">Computer science and mathematics student with a keen interest in data science and application development.</h3>
 
 📫 How to reach me **felix.prima12@gmail.com**
