@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">Computer science and mathematics student with a keen interest in data science and application development.</h3>
+<h3 align="center"> Highly motivated computer science and mathematics fresh graduate with a keen interest in data science and
+ application development.</h3>
 
 📫 How to reach me **felix.prima12@gmail.com**
 
