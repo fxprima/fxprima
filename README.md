@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center"> Computer science and mathematics fresh graduate👌</h3>
-
 📫 How to reach me **felix.prima12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
