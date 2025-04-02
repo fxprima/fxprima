@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
-📫 How to reach me **felix.prima12@gmail.com**
+### Hey, I'm Felix 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/felix-prima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felix-prima/" height="30" width="40" /></a>
-</p>
+🎓 I'm a Computer Science & Mathematics graduate from Binus University (Magna Cum Laude)  
+💼 Currently working as a Cost Estimator at Kawan Lama Manufacturing  
+💻 Passionate about coding, building stuff, and learning new tech — especially AI & Software Dev
+
+---
+
+🌱 Currently building **Suara** – a mini social media app with Gema (Tweet-like) features  
+📚 Learning deeply about AI beyond just Kaggle implementation  
+⚡ Always exploring ways to blend **AI + Software Dev** into useful, impactful tools
+
+---
+
+📬 Feel free to connect: felix.prima12@gmail.com 
+I'm always down to share ideas, collaborate, or talk tech 🤝
