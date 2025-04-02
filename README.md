@@ -1,6 +1,6 @@
 ### Hey, I'm Felix 👋
 
-🎓 I'm a Computer Science & Mathematics graduate from Binus University
+🎓 I'm a Computer Science & Mathematics graduate from Binus University<br>
 💻 Passionate about coding, building stuff, and learning new tech — especially AI & Software Dev
 
 ---
