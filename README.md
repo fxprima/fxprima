@@ -1,7 +1,6 @@
 ### Hey, I'm Felix 👋
 
 🎓 I'm a Computer Science & Mathematics graduate from Binus University
-💼 Currently working as a Cost Estimator at Kawan Lama Manufacturing  
 💻 Passionate about coding, building stuff, and learning new tech — especially AI & Software Dev
 
 ---
