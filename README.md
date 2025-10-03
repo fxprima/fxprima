@@ -11,5 +11,5 @@
 
 ---
 
-📬 Feel free to connect: felix.prima12@gmail.com 
+📬 Feel free to connect: felix.prima12@gmail.com | https://fx-prima.vercell.app
 I'm always down to share ideas, collaborate, or talk tech 🤝
